@@ -21,6 +21,7 @@ header {
 .logo {
   width: 180px;
   height: 180px;
+  margin-top: -50px;
 }
 h1 {
   font-size: 2.2rem;
@@ -58,8 +59,8 @@ h2 {
   flex-wrap: wrap;
   margin: 0 auto;
 }
-.aboutUs>div{
-    padding: 0 100px;
+.aboutUs > div {
+  padding: 0 100px;
 }
 .aboutUs > div > p {
   max-width: 400px;
@@ -69,11 +70,11 @@ h2 {
 .fa-laptop {
   font-size: 8rem;
 }
-footer{
-    text-align: center;
-    background: rgba(0, 0, 0, 0.9);
-    padding: 30px;
+footer {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.9);
+  padding: 30px;
 }
-footer > p{
-    width: 100%;
+footer > p {
+  width: 100%;
 }
